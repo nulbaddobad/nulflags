@@ -1,4 +1,4 @@
-## PT-BR
+## LEIA-ME | PT-BR
 
 ### Como usar minhas fastflags
 
@@ -13,9 +13,7 @@
 
 ---
 
-# README
-
-## EN-US
+## README | EN-US
 
 ### How to use my fastflags
 
