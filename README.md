@@ -3,7 +3,7 @@
 ### Como usar minhas fastflags
 
 1. Baixe "fastflag_injector_gui_enhanced.exe"  
-2. Baixe as fastflags  
+2. Baixe as fastflags em https://github.com/nulbaddobad/nulflags/releases/tag/1.0
 
 ### Como injetar minhas fastflags
 
@@ -18,7 +18,7 @@
 ### How to use my fastflags
 
 1. Download "fastflag_injector_gui_enhanced.exe"  
-2. Download the fastflags  
+2. Download the fastflags from https://github.com/nulbaddobad/nulflags/releases/tag/1.0
 
 ### How to inject my fastflags
 
