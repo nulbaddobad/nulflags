@@ -1,5 +1,3 @@
-# README
-
 ## How to use my fastflags
 
 1. Download "fastflag_injector_gui_enhanced.exe"  
